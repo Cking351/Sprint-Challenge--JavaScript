@@ -18,7 +18,7 @@ myFunction();
 
 // Explanation: 
 
-// Because the variable is blocked scoped, and because it is in the nested function, it can still be accessed.
+// Because the variable is a nested function, it is able to inherit the variables and arguments from the parent function.
 
 /* Task 2: Counter */
 
